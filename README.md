@@ -1,73 +1,157 @@
 # Hi, I'm Tao Li 👋
 
-## Automation & Workflow Specialist
+## Workflow Automation Engineer
 
-I build practical automation systems with **n8n, APIs, JavaScript, CRM workflows, and data processing**.
+I build production-style automation systems with **n8n, APIs, JavaScript, CRM-style workflow state management, Email/WhatsApp automation, and data pipelines**.
 
-My focus is turning repetitive business operations into reliable, maintainable workflows — from lead generation and data cleaning to CRM management, outreach automation, monitoring, and error handling.
+My work focuses on turning real business processes into reliable multi-workflow systems — including data ingestion, cleaning, validation, scoring, outreach, reply monitoring, follow-up, and operational status tracking.
 
-## What I Work With
-
-- n8n Workflow Automation
-- REST APIs & Webhooks
-- JavaScript / JSON
-- CRM & Lead Operations
-- Data Cleaning & Deduplication
-- Lead Scoring & Qualification
-- Email Automation
-- Google Sheets / Data Workflows
-- API-based Lead Generation
-- Error Handling & Workflow Monitoring
-
-## Current Projects
-
-### B2B Lead Operations Automation System
-
-End-to-end automation covering:
-
-**Lead Collection → Data Cleaning → Validation → Deduplication → Lead Scoring → CRM Status Management → Outreach → Reply Monitoring**
-
-Built with n8n, APIs, JavaScript, Google Sheets, Gmail, and external data services.
-
-The system includes:
-
-- API-based lead collection
-- Data validation and normalization
-- Duplicate detection
-- Lead scoring and qualification
-- CRM-style status management
-- Automated outreach workflows
-- Reply monitoring
-- Conditional routing
-- Asynchronous API processing
-- Pending / Success / Failure handling
-- Workflow monitoring and error recovery
-
-### ElevenLabs + n8n Automation Demo
-
-**Next project:** building an API-driven workflow integrating ElevenLabs with n8n for automated voice generation and workflow-triggered processing.
-
-The planned workflow will demonstrate:
-
-- ElevenLabs API integration
-- n8n workflow orchestration
-- Dynamic text input
-- Automated voice generation
-- API response handling
-- Error handling and monitoring
-
-## What I'm Looking For
-
-I'm interested in remote opportunities involving:
-
-- Workflow Automation
-- n8n Development
-- Business Process Automation
-- CRM Automation
-- API Integrations
-- Automation Operations
-- Technical Operations
+📍 UTC+8  
+📧 [taoli2347@gmail.com](mailto:taoli2347@gmail.com)
 
 ---
 
-More automation projects and workflow examples are being added.
+## 🚀 Flagship Project
+
+### B2B Lead Operations & Outreach Automation System
+
+A real multi-workflow n8n system originally built for an export business.
+
+It processes prospect data, qualifies leads, manages CRM-style workflow state, runs scheduled Email and WhatsApp outreach, monitors replies, and writes results back into the operational dataset.
+
+### Production Evidence
+
+- **1,498** cleaned prospect records
+- **50** lead / CRM / outreach fields
+- **694** records marked as Email outreach sent
+- **579** records marked as WhatsApp outreach sent
+- **755** WhatsApp-available records
+- Multi-market operations across **UAE and Saudi Arabia**
+
+### System Flow
+
+`Raw Data → Cleaning → Validation → Deduplication → Lead Scoring → CRM State → Email / WhatsApp → Reply Monitoring → Follow-up`
+
+### Engineering Highlights
+
+- Multi-workflow n8n architecture
+- Schedule-triggered production workflows
+- JavaScript Code nodes for transformation and business logic
+- REST / HTTP API integrations
+- Webhooks and external service integrations
+- Asynchronous API job submission and result polling
+- Data normalization and validation
+- Duplicate prevention and prior-send checks
+- Lead scoring and qualification logic
+- CRM-style state management
+- Gmail outreach and reply monitoring
+- Gmail Message ID / Thread ID handling
+- WhatsApp outreach automation
+- Browser automation and reply monitoring
+- Conditional routing, loops, and merge logic
+- Success / failure routing
+- Structured record updates and operational tracking
+
+> Public portfolio materials exclude credentials, customer emails, phone numbers, addresses, and private message content.
+
+<!--
+After the flagship repository is created, enable this link:
+
+[View Flagship Project](https://github.com/taoli2347-design/n8n-b2b-lead-operations-automation)
+-->
+
+---
+
+## 🛠 Core Stack
+
+**Automation**
+- n8n
+- Workflow orchestration
+- Schedule-based automation
+- CRM-style state management
+
+**Integration**
+- REST APIs
+- Webhooks
+- HTTP Request
+- Gmail
+- Google Sheets
+- Outscraper
+- WhatsApp workflows
+
+**Logic & Data**
+- JavaScript in n8n Code nodes
+- Data cleaning and normalization
+- Validation and filtering
+- Deduplication
+- Lead scoring
+- Conditional routing
+- Loops and Merge operations
+- Status tracking
+
+**Operations**
+- Workflow debugging
+- Field mapping
+- Failure-path handling
+- Execution monitoring
+- Workflow documentation
+
+---
+
+## 📂 Public Project
+
+### Recruitment Lead-to-Outreach Automation
+
+A complete n8n automation project covering lead ingestion, cleaning, deduplication, scoring, CRM-style workflow state management, personalized Gmail outreach, reply tracking, and follow-up.
+
+🔗 [View Repository](https://github.com/taoli2347-design/n8n-recruitment-lead-outreach-demo)
+
+---
+
+## 💼 What I Can Deliver
+
+- End-to-end n8n workflow automation
+- Lead processing and qualification systems
+- API and webhook integrations
+- CRM automation and workflow state management
+- Email outreach and reply-monitoring workflows
+- WhatsApp automation workflows
+- Data cleaning, validation, and duplicate controls
+- Lead scoring and routing logic
+- Existing workflow debugging and repair
+- JavaScript logic inside n8n
+- Google Sheets and Gmail automation
+- Async API workflows and polling
+- Clear technical handoff documentation
+
+---
+
+## 🎯 Roles I'm Interested In
+
+- Workflow Automation Engineer
+- Automation Engineer
+- n8n Automation Engineer
+- Integration Engineer
+- Automation Specialist
+- RevOps / Sales Operations Automation
+
+I am interested in **remote full-time or long-term contract roles** where I can build and maintain practical business automation systems.
+
+---
+
+## Working Style
+
+I focus on systems that can be demonstrated and explained clearly.
+
+I present only experience I can actually show, and I am comfortable completing a practical technical assessment when required.
+
+I prefer clear requirements, structured implementation, testing, documentation, and reliable handoff.
+
+---
+
+## 📫 Contact
+
+**Tao Li**  
+Workflow Automation Engineer  
+📧 [taoli2347@gmail.com](mailto:taoli2347@gmail.com)  
+🌏 UTC+8
