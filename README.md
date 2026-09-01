@@ -4,7 +4,7 @@
 
 I build production-style automation systems with **n8n, APIs, JavaScript, CRM-style workflow state management, Email/WhatsApp automation, and data pipelines**.
 
-My work focuses on turning real business processes into reliable multi-workflow systems — including data ingestion, cleaning, validation, scoring, outreach, reply monitoring, follow-up, and operational status tracking.
+My work focuses on turning real business processes into reliable multi-workflow systems — including data ingestion, cleaning, validation, scoring, outreach, reply monitoring, follow-up, and operational state tracking.
 
 📍 UTC+8  
 📧 [taoli2347@gmail.com](mailto:taoli2347@gmail.com)
@@ -15,18 +15,20 @@ My work focuses on turning real business processes into reliable multi-workflow 
 
 ### B2B Lead Operations & Outreach Automation System
 
-A real multi-workflow n8n system originally built for an export business.
+🔗 **[View Flagship Repository](https://github.com/taoli2347-design/n8n-b2b-lead-operations-automation)**
 
-It processes prospect data, qualifies leads, manages CRM-style workflow state, runs scheduled Email and WhatsApp outreach, monitors replies, and writes results back into the operational dataset.
+A production-style multi-workflow n8n system originally built around real B2B lead operations.
+
+It processes prospect data, qualifies leads, manages CRM-style workflow state, runs scheduled Email and WhatsApp outreach, monitors replies, and writes operational results back into structured datasets.
 
 ### Production Evidence
 
 - **1,498** cleaned prospect records
-- **50** lead / CRM / outreach fields
+- **50** operational lead / CRM / outreach fields
+- **755** WhatsApp-available records
 - **694** records marked as Email outreach sent
 - **579** records marked as WhatsApp outreach sent
-- **755** WhatsApp-available records
-- Multi-market operations across **UAE and Saudi Arabia**
+- Multi-market workflow logic across **UAE and Saudi Arabia**
 
 ### System Flow
 
@@ -35,51 +37,81 @@ It processes prospect data, qualifies leads, manages CRM-style workflow state, r
 ### Engineering Highlights
 
 - Multi-workflow n8n architecture
-- Schedule-triggered production workflows
-- JavaScript Code nodes for transformation and business logic
+- JavaScript Code nodes for business logic
 - REST / HTTP API integrations
 - Webhooks and external service integrations
-- Asynchronous API job submission and result polling
-- Data normalization and validation
-- Duplicate prevention and prior-send checks
+- Asynchronous API submission and result polling
+- Data cleaning, normalization, and validation
+- Batch and historical duplicate prevention
 - Lead scoring and qualification logic
 - CRM-style state management
-- Gmail outreach and reply monitoring
+- Scheduled outreach workflows
+- Gmail sending and reply monitoring
 - Gmail Message ID / Thread ID handling
 - WhatsApp outreach automation
-- Browser automation and reply monitoring
+- WhatsApp reply monitoring
+- Multilingual routing and message generation
 - Conditional routing, loops, and merge logic
-- Success / failure routing
-- Structured record updates and operational tracking
+- Success / failure handling
+- Structured operational write-back
 
-> Public portfolio materials exclude credentials, customer emails, phone numbers, addresses, and private message content.
+> Public portfolio materials are sanitized. Credentials, API keys, customer emails, phone numbers, addresses, and private message content are not published.
 
-<!--
-After the flagship repository is created, enable this link:
+---
 
-[View Flagship Project](https://github.com/taoli2347-design/n8n-b2b-lead-operations-automation)
--->
+## 🧩 Selected Projects
+
+### 1. B2B Lead Operations & Outreach Automation
+
+Production-style n8n system covering lead qualification, scoring, CRM states, Email/WhatsApp outreach, reply monitoring, and operational write-back.
+
+🔗 [View Repository](https://github.com/taoli2347-design/n8n-b2b-lead-operations-automation)
+
+---
+
+### 2. Recruitment Lead-to-Outreach Automation
+
+Complete n8n automation covering lead ingestion, cleaning, deduplication, scoring, CRM-style workflow state management, personalized Gmail outreach, reply tracking, and follow-up.
+
+🔗 [View Repository](https://github.com/taoli2347-design/n8n-recruitment-lead-outreach-demo)
+
+---
+
+### 3. Manufacturing Production Alert Automation
+
+n8n proof of concept for manufacturing production-data processing, KPI monitoring, anomaly detection, alerts, and reporting.
+
+🔗 [View Repository](https://github.com/taoli2347-design/n8n-manufacturing-production-alert-demo)
+
+---
+
+### 4. ElevenLabs + n8n Automation Demo
+
+n8n integration demo using the ElevenLabs Text-to-Speech API with dynamic input, audio generation, workflow handling, and error paths.
+
+🔗 [View Repository](https://github.com/taoli2347-design/elevenlabs-n8n-automation-demo)
 
 ---
 
 ## 🛠 Core Stack
 
-**Automation**
+### Automation
 - n8n
 - Workflow orchestration
-- Schedule-based automation
-- CRM-style state management
+- Scheduled automation
+- CRM-style workflow state management
 
-**Integration**
+### Integrations
 - REST APIs
-- Webhooks
 - HTTP Request
+- Webhooks
 - Gmail
 - Google Sheets
 - Outscraper
 - WhatsApp workflows
+- ElevenLabs API
 
-**Logic & Data**
+### Logic & Data
 - JavaScript in n8n Code nodes
 - Data cleaning and normalization
 - Validation and filtering
@@ -87,10 +119,11 @@ After the flagship repository is created, enable this link:
 - Lead scoring
 - Conditional routing
 - Loops and Merge operations
-- Status tracking
+- Operational status tracking
 
-**Operations**
+### Operations
 - Workflow debugging
+- Existing workflow repair
 - Field mapping
 - Failure-path handling
 - Execution monitoring
@@ -98,30 +131,21 @@ After the flagship repository is created, enable this link:
 
 ---
 
-## 📂 Public Project
-
-### Recruitment Lead-to-Outreach Automation
-
-A complete n8n automation project covering lead ingestion, cleaning, deduplication, scoring, CRM-style workflow state management, personalized Gmail outreach, reply tracking, and follow-up.
-
-🔗 [View Repository](https://github.com/taoli2347-design/n8n-recruitment-lead-outreach-demo)
-
----
-
 ## 💼 What I Can Deliver
 
 - End-to-end n8n workflow automation
-- Lead processing and qualification systems
+- Business process automation
 - API and webhook integrations
+- Lead processing and qualification systems
 - CRM automation and workflow state management
 - Email outreach and reply-monitoring workflows
 - WhatsApp automation workflows
 - Data cleaning, validation, and duplicate controls
 - Lead scoring and routing logic
-- Existing workflow debugging and repair
 - JavaScript logic inside n8n
 - Google Sheets and Gmail automation
 - Async API workflows and polling
+- Existing workflow debugging and repair
 - Clear technical handoff documentation
 
 ---
@@ -135,7 +159,7 @@ A complete n8n automation project covering lead ingestion, cleaning, deduplicati
 - Automation Specialist
 - RevOps / Sales Operations Automation
 
-I am interested in **remote full-time or long-term contract roles** where I can build and maintain practical business automation systems.
+I am interested in **remote full-time or long-term contract roles** where I can build, improve, and maintain practical business automation systems.
 
 ---
 
